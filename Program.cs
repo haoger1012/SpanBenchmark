@@ -1,3 +1,3 @@
 ﻿using BenchmarkDotNet.Running;
 
-BenchmarkRunner.Run<SpanTest>();
+BenchmarkRunner.Run<SpanTest2>();
